@@ -2,9 +2,9 @@
 
 I am Miguel Ozana, people call me Mick. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-ozana-951855231/)](https://www.linkedin.com/in/miguel-ozana-951855231/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pwl.miguel/)](https://www.instagram.com/pwl.miguel/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelozana@gmail.com)](mailto:miguelozana@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-miguelozana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-ozana-951855231/)](https://www.linkedin.com/in/miguel-ozana-951855231/)
+[![Instagram Badge](https://img.shields.io/badge/-pwl.miguel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pwl.miguel/)](https://www.instagram.com/pwl.miguel/)
+[![Gmail Badge](https://img.shields.io/badge/-miguelozana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelozana@gmail.com)](mailto:miguelozana@gmail.com)
 
 ## ⚡ Technologies
 
