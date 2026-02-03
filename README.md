@@ -1,35 +1,79 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# 👋 Hi, I'm Miguel Ozana
 
-I am Miguel Ozana, people call me Mick. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-miguelozana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-ozana-951855231/)](https://www.linkedin.com/in/miguel-ozana-951855231/)
-[![Instagram Badge](https://img.shields.io/badge/-pwl.miguel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pwl.miguel/)](https://www.instagram.com/pwl.miguel/)
-[![Gmail Badge](https://img.shields.io/badge/-miguelozana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelozana@gmail.com)](mailto:miguelozana@gmail.com)
+---
 
-## ⚡ Technologies
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Springboot](https://img.shields.io/badge/-springboot-E34A86?style=flat-square&logo=springboot)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=Java)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+I am a **Junior Data Engineer** focused on **data quality, reliability, and governance** in Big Data environments.  
+I work mainly with **Python and PySpark**, handling large-scale data processing in **Data Lakes** using **Bronze, Silver, and Gold** layers.
 
+I am especially interested in building **reliable and auditable data pipelines**, ensuring data consistency from ingestion to analytical consumption.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=m1guelozana&count_private=true&show_icons=true&include_all_commits=true)
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=m1guelozana.m1guelozana)
+## 🧠 Core Skills
+
+- Data Engineering fundamentals  
+- Data validation and profiling  
+- Data comparison between heterogeneous sources  
+- Schema normalization and data type alignment  
+- Data quality checks and reconciliation  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- Python  
+- SQL  
+
+### Big Data & Cloud
+- Apache Spark / PySpark  
+- Azure Synapse Analytics  
+- Azure Data Lake Storage (ADLS Gen2)  
+- AWS (S3, basic services and concepts)  
+- Databricks (fundamentals and notebooks)  
+
+### Data Formats
+- Delta Lake  
+- Parquet  
+- CSV  
+
+### Other Tools
+- Git & GitHub  
+- Jupyter Notebooks  
+- Kubernetes (basic concepts)  
+
+---
+
+## 📊 What You'll Find in My Repositories
+
+- Generic notebooks for **data validation and table comparison**
+- Data profiling scripts  
+- Comparisons between **CSV, Parquet, and Delta** datasets  
+- Automated **Excel reports** for data conformity and discrepancies  
+- Practical projects focused on **data quality and governance**
+
+---
+
+## 🎯 Career Goal
+
+To grow as a Data Engineer, strengthening my skills in **distributed data processing**, **modern data architectures**, and **cloud-based data platforms**, while contributing to reliable and scalable data solutions.
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: *[Miguel Ozana](https://www.linkedin.com/in/miguel-ozana-951855231/)*
+- 📧 Email: *miguelozana@gmail.com*  
+
+---
+
+⭐ If you find something useful here, feel free to star the repository!
